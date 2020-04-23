@@ -12,6 +12,7 @@ location /sportsapi-client {
 ## Project setup
 After clonning project run:
 ```
+$ cp .env.example .env
 $ yarn install
 $ yarn build
 ```
