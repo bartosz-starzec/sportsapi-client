@@ -5,7 +5,7 @@
 Put this code inside main configuration for other statscore projects (API, SPA, SCO)
 ```
 location /sportsapi-client {
-    alias /home/bartek/Projects/vue-projects/sportsapi-client/dist;
+    alias /path/to/app/directory/sportsapi-client/dist;
     try_files $uri /index.html =404;
 }
 ```
