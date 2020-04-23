@@ -43,7 +43,7 @@
                     <li class="btn"><a title="Team/LeagueCenter" href="/sportscenter/admin/websites"><i
                             class="fa fa-indent"></i> <span class="text">Team/LeagueCenter</span></a>
                     </li>
-                    <li class="btn"><a title="SportsApiClient" href="http://localhost:8081/"><span class="text">SportsApi Client</span></a>
+                    <li class="btn"><a title="SportsApiClient" href="/sportsapi-client"><span class="text">SportsApi Client</span></a>
                     </li>
                     <li class="btn"><a title="Your profile" href="/profile"><i class="fa fa-user"></i> <span
                             class="text">TestUser</span></a></li>
